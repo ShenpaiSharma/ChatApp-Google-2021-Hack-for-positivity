@@ -1,4 +1,4 @@
-# Diary-ChatApp-Google-2021-Hack-for-positivity
+# ChatApp
 
 npm init
 
